@@ -543,8 +543,8 @@ module.exports = function (grunt) {
 //'gitadd',
 //'gitcommit',
 //'gitpush'
-    'buildcontrol:pages',
-    'buildcontrol:local '
+    'buildcontrol:pages'
+    //'buildcontrol:local '
   ]);
 
   grunt.registerTask('default', [
