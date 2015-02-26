@@ -1,0 +1,7 @@
+grunt serve
+npm install
+grunt serve
+bower install
+grunt serve
+grunt test
+grunt e2e-test

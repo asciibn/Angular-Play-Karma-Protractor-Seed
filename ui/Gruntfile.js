@@ -72,7 +72,7 @@ module.exports = function (grunt) {
       },
       yourServer: {
         options: {
-          remote: 'https://github.com/asciibn/roughcut.git',
+          remote: 'https://github.com/ACCOUNT_NAME/REPO_NAME.git',
           branch: 'master'
         }
       },
@@ -85,7 +85,7 @@ module.exports = function (grunt) {
       },
       pages: {
         options: {
-          remote: 'https://github.com/asciibn/roughcut.git',
+          remote: 'https://github.com/ACCOUNT_NAME/REPO_NAME.git',
           branch: 'gh-pages'
         }
       }
